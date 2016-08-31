@@ -1,0 +1,128 @@
+body {
+    background-color:#FAEBD7;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+}
+
+h1 {
+    color: #000000;
+    text-align: center;
+    border:20px double white;
+    font size:30px
+    font-family:“Helvetica Neue”, Helvetica, Arial, sans-serif;
+   
+}
+
+p {
+    font-family:"comic Sans MS", cursive, sans-serif;
+}
+    font-size: 20px;
+}
+
+img {
+    max-width: 100%;
+{
+
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: darkblue;
+}
+
+/* selected link */
+a:active {
+    color: hotpink;
+}
+
+
+a:link {
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+body {
+    background-color:#FAEBD7;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 7px;
+
+h2 {
+   color:#000000;
+   text-align: center;
+   border:20px double white;
+   font size:30px
+   font-family: Impact, Charcoal, sans-serif;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: red;
+}
+
+/* mouse over link */
+a:hover {
+    color: darkblue;
+}
+
+/* selected link */
+a:active {
+    color: hotpink;
+}
+
+
+a:link {
+    text-decoration: underline;
+}
+
+a:visited {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+
+
+p {
+    font-family:"comic Sans MS", cursive, sans-serif;
+}
+    font-size: 20px;
+
+img {
+    max-width: 100%;
+{
+
+
